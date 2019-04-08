@@ -1,0 +1,74 @@
+*{
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.defult{
+  color: black;
+}
+.one{
+  color: red;
+}
+.two{
+  color: blue;
+}
+.three{
+  color: green;
+}
+h2{
+  text-align: center;
+  text-transform: capitalize;
+}
+.frist , .second , .third , .forth , .fifth{
+  width:300px;
+  height:100px;
+  padding: 10px;
+  float: left;
+  border: 1px solid black;
+  text-align: center;
+  margin: 5px;
+  overflow: hidden;
+}
+.second button , .third button , #text{
+  margin-top: 30px;
+}
+.second p {
+  margin-bottom: -15px;
+}
+.somm{
+  position: fixed;
+  right: 2px;
+  bottom: 2px;
+  border: 1px solid black;
+  padding: 10px;
+  font-size: 25px;
+}
+#scroll{
+  position: fixed;
+  left: 92%;
+  top: 90%;
+  width: 76px;
+  height: 64px;
+  background: none;
+  background-color: #e74c3c;
+  color: #FFF;
+  border: none;
+  display: none;
+}
+.forth label{
+  display: block;
+  margin-top: 25px;
+  font-size: 25px;
+}
+.fifth label{
+  display: block;
+  margin-top: 10px;
+  font-size: 20px;
+  text-decoration: underline;
+}
+#check{
+  margin-top: 15px;
+}
+#par{
+  margin-top: 0px;
+}
